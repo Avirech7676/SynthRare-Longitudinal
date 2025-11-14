@@ -1,0 +1,1 @@
+[{"patient_id": "SR-0001", "wbc": 12.4, "causal": "If platelets >150, survival +42%"}]

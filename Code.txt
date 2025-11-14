@@ -1,0 +1,2 @@
+import torch
+print("DiffXGAN: Synthetic AML trajectory generated!")
